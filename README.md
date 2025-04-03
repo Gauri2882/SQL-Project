@@ -1,4 +1,4 @@
-**Global Layoffs Data Analysis Project**
+**GLOBAL LAYOFFS DATA ANALYSIS USING SQL**
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 1. **Project Overview**
@@ -14,8 +14,6 @@ ________________________________________________________________________________
 
 
 **2. Dataset Specifications**
-
-**Source:** https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 **Record Count:** 2,362 entries
 
